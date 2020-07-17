@@ -2,84 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f82d90b-78db-42cf-8053-148bcd80a2fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/003dd6553100edc48b33e178fa9a561d.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/1a99742edbcf668f6d22903c78132534.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/1e8d1017ebcb0de6c8c9456a4383ece5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/20e18dddeb8e041db703abcfc9b7542b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/2127aa6d0680b144a3bd8be9debeba09.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/26df5d8bac4e723a4d2483648f4f87e6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/287a74524b64d5894aeb6a2cbf8d5045.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/3176d952d9b2c284a7a8e9593ff534a3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/32a67dccd3d84e1a8ab69171b5975b07.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/33367fd27f50e9b1bb3257d0b87ec316.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/41851861d2e405ab8b823a2e134bc911.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/4c40d1293e89892f21d8c1ee387965f6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/4da47de8b77ce6fd3223b2fae17272ec.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/4fc3ce7225ee6225de87c04b83b8a477.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/61d1a9d5f40bfcbe21e5a069d5dee774.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/69b41d73e47ca458ff2f5d3bf2fb3031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/6ba6842dfbde44db4279dcd68c2ca5e4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/7917c69720bed68ad7208ec908572315.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/7ac1c8f0b974a943aa67859c07f86bd2.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/8c4b8317555c579aa22bd85454139b69.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/976eac434f8f3038e8494498247a9b5c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/9848bd87026b02ab29c6dbb39a4f20b6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/a0aed8ccff2c7dffb0fe06e06cbab720.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/a4cbe05e4aed6c1bf0078b24f21fff1c.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/a883b7b0b393c6b7d370f393b54f18fe.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ae506575051f9b82b2442749f2c6c311.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/b0c690fefa4b7da0e6a74473e4593fea.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/b15a57977d219b1fda7927bb7be6ac2a.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/b517b6728acfa52d2ad000372dd29f77.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/c1e13010541f990a6cd3e4a478d02aac.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/c4f8ebf031a50c82d3971453df62330e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/c88edbac48d6408ef042ad663b7d9498.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/c9acc7c4e970e13e6d1c8b4e1244f534.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/d57aa6798012cd8458bd8387b25e9e4c.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/d783ca717bb7b7f32c9106476810ddd8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/db6e5be81a2c216185e31adad3f7b640.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/de33ca236dc1057b4f2081430460fa9b.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/e1ea7a7d498603c651cf2dadb94861a5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/e78789cd0ced34d8a652cd0e2a969366.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/e84a65523e3a8373f88eb9c8da387d52.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ecc159536d1804ac291b3f3bf9e2e35a.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ef50854246219e0c795369de29dd83b9.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/f13f58f9ca9028a6356eac4d83d30fb9.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fcaa3e51de6597476310bd7b8807dedd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/0.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/0.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.babel.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.babel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.emotion.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.emotion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.gud.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.gud.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.history.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.history.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.hoist-non-react-statics.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.hoist-non-react-statics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.memoize-one.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.memoize-one.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.mini-create-react-context.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.mini-create-react-context.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.object-assign.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.object-assign.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.prop-types.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.prop-types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.react-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.react-dom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.react-input-autosize.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.react-input-autosize.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.react-is.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.react-is.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.react-redux.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.react-redux.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.react-router-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.react-router-dom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.react-router.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.react-router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.react-select.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.react-select.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.react.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.react.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.redux-devtools-extension.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.redux-devtools-extension.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.redux-thunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.redux-thunk.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.redux.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.redux.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.resolve-pathname.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.resolve-pathname.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.scheduler.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.scheduler.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.style-loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.style-loader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.symbol-observable.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.symbol-observable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.tiny-invariant.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.tiny-invariant.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.tiny-warning.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.value-equal.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.value-equal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/npm.webpack.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/npm.webpack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/runtime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,30 +79,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1537" height="197" key="GridCell.Tab.0.bottom" timestamp="1594983578314">
+    <state width="1537" height="197" key="GridCell.Tab.0.bottom" timestamp="1594984361666">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594983578314" />
-    <state width="1537" height="197" key="GridCell.Tab.0.center" timestamp="1594983578314">
+    <state width="1537" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594984361666" />
+    <state width="1537" height="197" key="GridCell.Tab.0.center" timestamp="1594984361666">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594983578314" />
-    <state width="1537" height="197" key="GridCell.Tab.0.left" timestamp="1594983578314">
+    <state width="1537" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594984361666" />
+    <state width="1537" height="197" key="GridCell.Tab.0.left" timestamp="1594984361665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594983578314" />
-    <state width="1537" height="197" key="GridCell.Tab.0.right" timestamp="1594983578314">
+    <state width="1537" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594984361665" />
+    <state width="1537" height="197" key="GridCell.Tab.0.right" timestamp="1594984361666">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594983578314" />
+    <state width="1537" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594984361666" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1594289147128">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594289147128" />
-    <state x="444" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1594983510891">
+    <state x="444" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1594984035794">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="444" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594983510891" />
+    <state x="444" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594984035794" />
     <state x="388" y="93" width="759" height="638" key="find.popup" timestamp="1594290749086">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
